@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/order-system/admin/admin.iml" filepath="$PROJECT_DIR$/order-system/admin/admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/order-system/images/images.iml" filepath="$PROJECT_DIR$/order-system/images/images.iml" />
+      <module fileurl="file://$PROJECT_DIR$/order-system/kitchen/kitchen.iml" filepath="$PROJECT_DIR$/order-system/kitchen/kitchen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/order-system/menu/menu.iml" filepath="$PROJECT_DIR$/order-system/menu/menu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/order-system/order-system.iml" filepath="$PROJECT_DIR$/order-system/order-system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/order_system.iml" filepath="$PROJECT_DIR$/.idea/order_system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/order-system/waiter/waiter.iml" filepath="$PROJECT_DIR$/order-system/waiter/waiter.iml" />
+    </modules>
+  </component>
+</project>
